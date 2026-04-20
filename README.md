@@ -8,6 +8,8 @@ The original dashboard contained multiple visual elements and metrics related to
 
 This project documents the process of analysing, critiquing, and redesigning the dashboard to improve its analytical value.
 
+This project uses synthetic/anonymised data for demonstration purposes only.
+
 ## Acknowledgements
 
 The original version of this dashboard was developed as part of a group project during my MSc programme. This repository focuses on my individual work to critically evaluate and improve the dashboard design, structure, and analytical effectiveness.
