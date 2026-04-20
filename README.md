@@ -13,8 +13,4 @@ This project documents the process of analysing, critiquing, and redesigning the
 The original version of this dashboard was developed as part of a group project during my MSc programme. This repository focuses on my individual work to critically evaluate and improve the dashboard design, structure, and analytical effectiveness.
 
 Original project contributors (Patient Dashboard):
-Ziqian Geng
-Yu Liang
-Francisca Valenzuela-Mella
-Linchuanzi Wang
-Renxun Zhang
+Ziqian Geng, Yu Liang, Francisca Valenzuela-Mella, Linchuanzi Wang and Renxun Zhang
